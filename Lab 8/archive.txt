@@ -1,0 +1,6 @@
+Book,B001,Brainrot Terminology,2018,Tralalero Tralala,775
+Book,B002,A History On Brainrot,2020,Bombardino Crocodilo,464
+Article,A101,How The Prius C is Killing Brr Brr Patapim,2022,Nature,10.1234/qc567
+Article,A102,How 10 Hours of Scrolling Instagram Reels Every Day Improves Your Life,2019,Science,10.5678/ai999
+Podcast,P301,The Lion Does Not Concern Himself With Python "Developers",2023,Terry Davis,6942031
+Podcast,P302,How Redeem Google Play Gift Cards,2021,Arjun Singh,30
